@@ -1,0 +1,43 @@
+name: practice
+channels:
+  - conda-forge
+dependencies:
+  - _py-xgboost-mutex=2.0=cpu_0
+  - bzip2=1.0.8=h3422bc3_4
+  - ca-certificates=2022.9.24=h4653dfc_0
+  - joblib=1.2.0=pyhd8ed1ab_0
+  - libblas=3.9.0=16_osxarm64_openblas
+  - libcblas=3.9.0=16_osxarm64_openblas
+  - libcxx=14.0.6=h2692d47_0
+  - libffi=3.4.2=h3422bc3_5
+  - libgfortran=5.0.0=11_3_0_hd922786_26
+  - libgfortran5=11.3.0=hdaf2cc0_26
+  - liblapack=3.9.0=16_osxarm64_openblas
+  - libopenblas=0.3.21=openmp_hc731615_3
+  - libsqlite=3.40.0=h76d750c_0
+  - libxgboost=1.7.1=cpu_h13cf1d8_0
+  - libzlib=1.2.13=h03a7124_4
+  - lightgbm=3.3.3=py39h7dbb43e_1
+  - llvm-openmp=15.0.5=h7cfbb63_0
+  - ncurses=6.3=h07bb92c_1
+  - numpy=1.23.5=py39hefdcf20_0
+  - openssl=3.0.7=h03a7124_0
+  - pandas=1.5.2=py39hde7b980_0
+  - pip=22.3.1=pyhd8ed1ab_0
+  - py-xgboost=1.7.1=cpu_py39h6861412_0
+  - python=3.9.15=hea58f1e_0_cpython
+  - python-dateutil=2.8.2=pyhd8ed1ab_0
+  - python_abi=3.9=3_cp39
+  - pytz=2022.6=pyhd8ed1ab_0
+  - readline=8.1.2=h46ed386_0
+  - scikit-learn=1.1.3=py39h57c6424_1
+  - scipy=1.9.3=py39h18313fe_2
+  - setuptools=65.5.1=pyhd8ed1ab_0
+  - six=1.16.0=pyh6c4a22f_0
+  - threadpoolctl=3.1.0=pyh8a188c0_0
+  - tk=8.6.12=he1e0b03_0
+  - tzdata=2022g=h191b570_0
+  - wheel=0.38.4=pyhd8ed1ab_0
+  - xgboost=1.7.1=cpu_py39h2fb42d7_0
+  - xz=5.2.6=h57fd34a_0
+prefix: /Users/hiroakimatsumoto/miniforge3/envs/practice
