@@ -19,6 +19,14 @@ conda env create -f [filename].yml
 ```
 source activate [env name]
 ```
+- This is done in `(base)` environment.
+- If you are not in `(base)`, try `$conda activate`.
+
+### Deactivation
+```
+conda deactivate
+```
+- (e.g.): (practice)→(base)→no mark
 
 ### Check the env list
 ```
@@ -28,5 +36,5 @@ conda list
 ### Delete the env
 ```
 conda remove -n [env name] --all
-
+```
 
