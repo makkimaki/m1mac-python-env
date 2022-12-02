@@ -35,6 +35,12 @@ conda deactivate
 
 ### Check the env list
 ```
+conda env list
+```
+
+### Check the conda env package list
+After switching to the environment...
+```
 conda list
 ```
 
@@ -44,6 +50,7 @@ conda remove -n [env name] --all
 ```
 
 ## Export to `.yaml` file
+After switch to the virtual environment...
 ```
 conda env export > [filename].yml
 ```
